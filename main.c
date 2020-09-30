@@ -6,7 +6,7 @@
  */
 int row,column,number; //global variables
 char copy[9][9];// global array variable
-int main(void)
+int main()
 {
          FILE *fp ;//creating file pointer
          char data[50],name[50];char solution[9][9],puzzel[9][9];int i=0,ch,counter=1;//local variables
